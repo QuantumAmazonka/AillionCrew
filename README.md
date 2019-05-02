@@ -1,2 +1,2 @@
 # AillionCrew
-Fun project for belarusian metall band "Aillion"
+Fun project for belarusian metal band "Aillion"
